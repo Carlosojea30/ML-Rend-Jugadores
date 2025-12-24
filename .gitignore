@@ -1,0 +1,34 @@
+# =====================
+# DATA (NO SUBIR)
+# =====================
+data/raw/
+data/processed/
+data/train/
+data/test/
+
+# =====================
+# MODELOS ENTRENADOS
+# =====================
+models/*.pkl
+models/*.joblib
+
+# =====================
+# JUPYTER
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# PYTHON
+# =====================
+__pycache__/
+*.pyc
+
+# =====================
+# SISTEMA
+# =====================
+.DS_Store
+
+# =====================
+# VS CODE
+# =====================
+.vscode/
